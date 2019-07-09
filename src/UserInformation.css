@@ -1,0 +1,18 @@
+/*PullDownUser.js*/
+.pull_down_user {
+    margin : 70px;
+}
+
+.account_box {
+    margin-left : 10px;
+    margin-top : 10px;
+    margin-bottom : 30px;
+    width: 100px;
+    height: 100px;
+
+}
+
+.drop_down_menu {
+    margin : 10px;
+    padding-bottom : 10px;
+}
