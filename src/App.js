@@ -7,6 +7,17 @@ import PullDownUser from "./PullDownUser";
 import UserInformation from "./UserInformation";
 
 
+//ユーザー情報を保存するクラス
+class UserData {
+    /*var possession_point = 100;
+    var evaluation_point
+    var datalist  = {
+        'img' : '',
+        'possession_point' : '',
+        'evaluation_point' : ''
+    };*/
+}
+
 //選択中ユーザーのコンポーネント
 class SelectedUser extends React.Component {
     render() {
